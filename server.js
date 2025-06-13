@@ -24,7 +24,7 @@ app.use(express.json());
 app.use(
   cors({
     origin: [
-      "https://playground-054-frontend.vercel.app",
+      "https://fsp-1-assignment-frontend.vercel.app",
       "http://localhost:5173",
       "http://localhost:5174",
       "http://localhost:5175",
